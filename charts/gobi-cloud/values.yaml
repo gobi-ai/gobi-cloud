@@ -1,0 +1,6 @@
+name: gobi-cloud
+namespace: gobi
+
+inference:
+  model: qwen2.5-vl:7b
+  port: 11434
